@@ -16,7 +16,7 @@ We encourage you to share your open source adapters with the community by submit
 | [OTTO Motors](https://ottomotors.com/) | Full Control | https://github.com/open-rmf/fleet_adapter_clearpath |
 | [Senserbot](https://www.senserbot.com) | Full Control | https://bitbucket.org/rmf-sb/fleet_adapter_aurora/ |
 | [temi Robots](https://www.robotemi.com/) | Full Control | https://github.com/open-rmf/temi_fleet_adapter_python |
-| [TurtleBot4 Clearpath Robotics](https://clearpathrobotics.com/) | Full Control | (https://github.com/open-rmf/fleet_adapter_tb4) |
+| [TurtleBot4 Clearpath Robotics](https://clearpathrobotics.com/) | Full Control | https://github.com/open-rmf/fleet_adapter_tb4 |
 | [TurtleBot3 Robotis](https://emanual.robotis.com/) | Full Control | https://github.com/open-rmf/free_fleet |
 | [TurtleBot2 Yujin/Kobuki](http://kobuki.yujinrobot.com/about2/) | Full Control | https://github.com/open-rmf/free_fleet |
 | [Ubiquity Robotics](https://www.ubiquityrobotics.com/) | Full Control | https://github.com/open-rmf/free_fleet |
