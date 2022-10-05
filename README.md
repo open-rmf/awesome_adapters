@@ -7,7 +7,7 @@ We encourage you to share your open source adapters with the community by submit
 
 ## Fleet Adapters
 
-| Company | Integration Level | Repository |
+| Company | [Integration Level](https://osrf.github.io/ros2multirobotbook/rmf-core.html#fleet-adapters) | Repository |
 |-----|----|----|
 | [Clearpath Robotics](https://clearpathrobotics.com/) | Full Control | https://github.com/open-rmf/fleet_adapter_clearpath |
 | [Gaussian Robotics](https://www.gaussianrobotics.com/) | Full Control | https://github.com/open-rmf/fleet_adapter_ecobot |
