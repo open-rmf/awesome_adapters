@@ -20,6 +20,7 @@ We encourage you to share your open source adapters with the community by submit
 | [TurtleBot3 Robotis](https://emanual.robotis.com/) | Full Control | https://github.com/open-rmf/free_fleet |
 | [TurtleBot2 Yujin/Kobuki](http://kobuki.yujinrobot.com/about2/) | Full Control | https://github.com/open-rmf/free_fleet |
 | [Ubiquity Robotics](https://www.ubiquityrobotics.com/) | Full Control | https://github.com/open-rmf/free_fleet |
+| [InOrbit](https://www.inorbit.ai/) | Full Control | https://github.com/inorbit-ai/ros_amr_interop |
 
 ## Elevator / Lift Adapters
 
