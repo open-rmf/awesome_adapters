@@ -13,7 +13,7 @@ We encourage you to share your open source adapters with the community by submit
 | [Gaussian Robotics](https://www.gaussianrobotics.com/) | Full Control | https://github.com/open-rmf/fleet_adapter_ecobot |
 | [Institute for Infocomm Research (I2R)](https://www.a-star.edu.sg/i2r?page=Human_Language_Technology_Department) | Full Control | https://github.com/sharp-rmf/i2r-rmf-fleet-adapter |
 | [Mobile Industrial Robots: MiR](https://www.mobile-industrial-robots.com/) | Full Control | https://github.com/osrf/fleet_adapter_mir |
-| [Mobile Industrial Robots: MiRFleet](https://www.mobile-industrial-robots.com/) | Full Control | https://github.com/osrf/fleet_adapter_mir/tree/mirfm |
+| [Mobile Industrial Robots: MiRFleet](https://www.mobile-industrial-robots.com/) | Full Control | https://github.com/osrf/fleet_adapter_mir |
 | [OTTO Motors](https://ottomotors.com/) | Full Control | https://github.com/open-rmf/fleet_adapter_clearpath |
 | [Senserbot](https://www.senserbot.com) | Full Control | https://bitbucket.org/rmf-sb/fleet_adapter_aurora/ |
 | [temi Robots](https://www.robotemi.com/) | Full Control | https://github.com/open-rmf/temi_fleet_adapter_python |
