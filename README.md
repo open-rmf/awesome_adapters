@@ -22,7 +22,7 @@ We encourage you to share your open source adapters with the community by submit
 | [TurtleBot2 Yujin/Kobuki](http://kobuki.yujinrobot.com/about2/) | Full Control | https://github.com/open-rmf/free_fleet |
 | [Ubiquity Robotics](https://www.ubiquityrobotics.com/) | Full Control | https://github.com/open-rmf/free_fleet |
 | [InOrbit](https://www.inorbit.ai/) | Full Control | https://github.com/inorbit-ai/ros_amr_interop |
-| [Lionsbot International](https://www.lionsbot.com/) | Full Control | https://github.com/lionsbot-official/fleet_adapter_lionsbot |
+| [LionsBot](https://www.lionsbot.com/) | Full Control | https://github.com/lionsbot-official/fleet_adapter_lionsbot |
 
 ## Elevator / Lift Adapters
 
