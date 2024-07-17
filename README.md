@@ -29,12 +29,14 @@ We encourage you to share your open source adapters with the community by submit
 | Company | Repository |
 |-----|----|
 | [KONE](https://www.kone.com/en/) | https://github.com/sharp-rmf/kone_lift_controller |
+| [Octa Robotics](https://www.octa8.jp/service/) | https://github.com/octarobotics/lci-rmf-adapter |
 
 ## Door Adapters
 
 | Company | Repository |
 |-----|----|
 | [Dormakaba](https://www.dormakaba.com/) | https://github.com/open-rmf/door_adapter_dormakaba |
+| [Octa Robotics](https://www.octa8.jp/service/) | https://github.com/octarobotics/lci-rmf-adapter |
 
 ## Workcells
 
