@@ -9,9 +9,12 @@ We encourage you to share your open source adapters with the community by submit
 
 | Company | [Integration Level](https://osrf.github.io/ros2multirobotbook/rmf-core.html#fleet-adapters) | Repository |
 |-----|----|----|
+| [Andino](https://github.com/Ekumen-OS/andino) | Full Control | https://github.com/Ekumen-OS/andino_rmf/tree/humble/andino_fleet_adapter |
 | [Clearpath Robotics](https://clearpathrobotics.com/) | Full Control | https://github.com/open-rmf/fleet_adapter_clearpath |
 | [Gaussian Robotics](https://www.gaussianrobotics.com/) | Full Control | https://github.com/open-rmf/fleet_adapter_ecobot |
+| [InOrbit](https://www.inorbit.ai/) | Full Control | https://github.com/inorbit-ai/ros_amr_interop |
 | [Institute for Infocomm Research (I2R)](https://www.a-star.edu.sg/i2r?page=Human_Language_Technology_Department) | Full Control | https://github.com/sharp-rmf/i2r-rmf-fleet-adapter |
+| [LionsBot](https://www.lionsbot.com/) | Full Control | https://github.com/lionsbot-official/fleet_adapter_lionsbot |
 | [Mobile Industrial Robots: MiR](https://www.mobile-industrial-robots.com/) | Full Control | https://github.com/osrf/fleet_adapter_mir |
 | [Mobile Industrial Robots: MiRFleet](https://www.mobile-industrial-robots.com/) | Full Control | https://github.com/osrf/fleet_adapter_mir |
 | [OTTO Motors](https://ottomotors.com/) | Full Control | https://github.com/open-rmf/fleet_adapter_clearpath |
@@ -21,8 +24,6 @@ We encourage you to share your open source adapters with the community by submit
 | [TurtleBot3 Robotis](https://emanual.robotis.com/) | Full Control | https://github.com/open-rmf/free_fleet |
 | [TurtleBot2 Yujin/Kobuki](http://kobuki.yujinrobot.com/about2/) | Full Control | https://github.com/open-rmf/free_fleet |
 | [Ubiquity Robotics](https://www.ubiquityrobotics.com/) | Full Control | https://github.com/open-rmf/free_fleet |
-| [InOrbit](https://www.inorbit.ai/) | Full Control | https://github.com/inorbit-ai/ros_amr_interop |
-| [LionsBot](https://www.lionsbot.com/) | Full Control | https://github.com/lionsbot-official/fleet_adapter_lionsbot |
 
 ## Elevator / Lift Adapters
 
