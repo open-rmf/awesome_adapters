@@ -24,6 +24,7 @@ We encourage you to share your open source adapters with the community by submit
 | [TurtleBot3 Robotis](https://emanual.robotis.com/) | Full Control | https://github.com/open-rmf/free_fleet |
 | [TurtleBot2 Yujin/Kobuki](http://kobuki.yujinrobot.com/about2/) | Full Control | https://github.com/open-rmf/free_fleet |
 | [Ubiquity Robotics](https://www.ubiquityrobotics.com/) | Full Control | https://github.com/open-rmf/free_fleet |
+| [Kabam Robotics](https://kabam.ai/) | Full Control | https://github.com/KABAM-Robotics/fleet_adapter_kabam |
 
 ## Elevator / Lift Adapters
 
